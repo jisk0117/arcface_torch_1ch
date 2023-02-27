@@ -1,0 +1,7 @@
+k                        4
+ls_num_blocks            [1, 3, 4, 5]
+ls_block_width           [64, 336, 432, 912]
+bottleneck_ratio         [1, 1, 1, 1]
+group_width              [16, 16, 16, 16]
+se_ratio                 True
+fp16                     True

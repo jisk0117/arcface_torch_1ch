@@ -1,0 +1,300 @@
+[  0/100] completed: flops =   446,858,760 / acts = 1,938,992 / param =   17,347,800
+[  1/100] completed: flops =   522,558,360 / acts = 1,983,416 / param =   25,799,976
+[  2/100] completed: flops =   448,649,856 / acts = 1,889,648 / param =   27,517,680
+[  3/100] completed: flops =   563,159,032 / acts = 1,993,280 / param =   29,827,720
+[  4/100] completed: flops =   542,240,496 / acts = 1,798,928 / param =   29,456,064
+[  5/100] completed: flops =   546,951,840 / acts = 1,727,992 / param =   26,027,280
+[  6/100] completed: flops =   598,064,040 / acts = 1,902,176 / param =   30,653,208
+[  7/100] completed: flops =   483,804,768 / acts = 1,506,776 / param =   32,034,288
+[  8/100] completed: flops =   491,666,232 / acts = 1,905,584 / param =   28,005,960
+[  9/100] completed: flops =   419,944,464 / acts = 1,897,184 / param =   25,718,496
+[ 10/100] completed: flops =   440,683,560 / acts = 1,630,624 / param =   19,453,272
+[ 11/100] completed: flops =   467,452,680 / acts = 1,933,208 / param =   23,724,888
+[ 12/100] completed: flops =   451,542,160 / acts = 1,832,128 / param =   21,657,376
+[ 13/100] completed: flops =   469,470,672 / acts = 1,412,504 / param =   28,884,384
+[ 14/100] completed: flops =   452,388,736 / acts = 1,952,176 / param =   20,541,520
+[ 15/100] completed: flops =   465,777,280 / acts = 1,719,984 / param =   26,012,176
+[ 16/100] completed: flops =   413,174,600 / acts = 1,718,272 / param =   28,011,320
+[ 17/100] completed: flops =   448,899,888 / acts = 1,620,920 / param =   23,331,648
+[ 18/100] completed: flops =   449,165,232 / acts = 1,807,784 / param =   23,013,216
+[ 19/100] completed: flops =   534,988,152 / acts = 1,698,560 / param =   31,115,016
+[ 20/100] completed: flops =   431,266,680 / acts = 1,644,584 / param =   31,374,216
+[ 21/100] completed: flops =   489,879,952 / acts = 1,941,312 / param =   31,110,400
+[ 22/100] completed: flops =   420,262,272 / acts = 1,867,976 / param =   16,450,704
+[ 23/100] completed: flops =   428,919,304 / acts = 1,723,584 / param =   19,359,640
+[ 24/100] completed: flops =   502,259,400 / acts = 1,936,352 / param =   32,548,440
+[ 25/100] completed: flops =   473,331,872 / acts = 1,434,128 / param =   33,169,712
+[ 26/100] completed: flops =   554,747,040 / acts = 1,830,416 / param =   34,208,496
+[ 27/100] completed: flops =   684,459,584 / acts = 1,998,224 / param =   34,427,600
+[ 28/100] completed: flops =   413,624,688 / acts = 1,587,632 / param =   18,697,344
+[ 29/100] completed: flops =   507,859,536 / acts = 1,564,880 / param =   25,637,184
+[ 30/100] completed: flops =   415,317,240 / acts = 1,951,672 / param =   12,686,568
+[ 31/100] completed: flops =   542,364,448 / acts = 1,793,808 / param =   34,934,704
+[ 32/100] completed: flops =   427,656,576 / acts = 1,735,808 / param =   30,803,088
+[ 33/100] completed: flops =   402,917,760 / acts = 1,743,272 / param =   15,249,168
+[ 34/100] completed: flops =   412,872,720 / acts = 1,864,672 / param =   22,455,456
+[ 35/100] completed: flops =   425,712,576 / acts = 1,517,104 / param =   26,307,408
+[ 36/100] completed: flops =   426,783,096 / acts = 1,507,616 / param =   31,058,568
+[ 37/100] completed: flops =   470,017,824 / acts = 1,585,064 / param =   31,339,248
+[ 38/100] completed: flops =   401,134,600 / acts = 1,702,072 / param =   19,669,720
+[ 39/100] completed: flops =   431,936,400 / acts = 1,908,352 / param =   30,875,520
+[ 40/100] completed: flops =   432,442,272 / acts = 1,585,744 / param =   26,158,128
+[ 41/100] completed: flops =   491,875,160 / acts = 1,769,152 / param =   23,258,600
+[ 42/100] completed: flops =   487,470,104 / acts = 1,787,424 / param =   22,497,320
+[ 43/100] completed: flops =   496,085,056 / acts = 1,836,880 / param =   32,873,680
+[ 44/100] completed: flops =   440,416,968 / acts = 1,991,864 / param =   22,890,264
+[ 45/100] completed: flops =   456,949,032 / acts = 1,984,544 / param =   30,712,056
+[ 46/100] completed: flops =   410,852,136 / acts = 1,412,192 / param =   25,655,736
+[ 47/100] completed: flops =   600,954,768 / acts = 1,962,656 / param =   25,456,896
+[ 48/100] completed: flops =   446,389,216 / acts = 1,341,008 / param =   34,765,936
+[ 49/100] completed: flops =   478,094,176 / acts = 1,304,784 / param =   29,517,808
+[ 50/100] completed: flops =   416,933,568 / acts = 1,632,176 / param =   21,014,640
+[ 51/100] completed: flops =   436,791,168 / acts = 1,823,984 / param =   23,955,984
+[ 52/100] completed: flops =   445,136,760 / acts = 1,473,704 / param =   28,191,528
+[ 53/100] completed: flops =   424,117,360 / acts = 1,714,552 / param =   29,387,680
+[ 54/100] completed: flops =   414,896,960 / acts = 1,482,896 / param =   19,284,944
+[ 55/100] completed: flops =   484,168,224 / acts = 1,706,304 / param =   31,625,136
+[ 56/100] completed: flops =   550,100,528 / acts = 1,984,816 / param =   30,719,936
+[ 57/100] completed: flops =   410,813,592 / acts = 1,579,328 / param =   28,730,472
+[ 58/100] completed: flops =   518,369,040 / acts = 1,980,584 / param =   22,777,344
+[ 59/100] completed: flops =   476,745,792 / acts = 1,893,264 / param =   31,579,344
+[ 60/100] completed: flops =   624,241,720 / acts = 1,720,512 / param =   32,166,760
+[ 61/100] completed: flops =   419,541,152 / acts = 1,597,528 / param =   26,097,392
+[ 62/100] completed: flops =   442,626,336 / acts = 1,659,176 / param =   22,897,296
+[ 63/100] completed: flops =   507,025,752 / acts = 1,680,656 / param =   22,968,168
+[ 64/100] completed: flops =   447,798,120 / acts = 1,892,512 / param =   22,480,440
+[ 65/100] completed: flops =   429,063,840 / acts = 1,904,144 / param =   23,998,896
+[ 66/100] completed: flops =   429,502,784 / acts = 1,562,656 / param =   22,641,104
+[ 67/100] completed: flops =   445,885,440 / acts = 1,919,840 / param =   30,352,272
+[ 68/100] completed: flops =   590,157,000 / acts = 1,816,064 / param =   33,259,320
+[ 69/100] completed: flops =   422,979,168 / acts = 1,570,160 / param =   29,377,200
+[ 70/100] completed: flops =   421,150,200 / acts = 1,412,832 / param =   29,153,640
+[ 71/100] completed: flops =   409,329,832 / acts = 1,791,456 / param =   25,170,424
+[ 72/100] completed: flops =   406,100,672 / acts = 1,556,368 / param =   14,559,056
+[ 73/100] completed: flops =   483,215,240 / acts = 1,800,432 / param =   32,963,960
+[ 74/100] completed: flops =   468,061,504 / acts = 1,408,800 / param =   31,472,848
+[ 75/100] completed: flops =   468,969,984 / acts = 1,951,856 / param =   18,183,600
+[ 76/100] completed: flops =   444,987,360 / acts = 1,520,360 / param =   31,416,912
+[ 77/100] completed: flops =   418,869,472 / acts = 1,442,608 / param =   23,042,416
+[ 78/100] completed: flops =   413,606,480 / acts = 1,990,032 / param =   16,771,520
+[ 79/100] completed: flops =   424,833,240 / acts = 1,948,192 / param =   28,443,720
+[ 80/100] completed: flops =   464,492,544 / acts = 1,533,104 / param =   28,623,504
+[ 81/100] completed: flops =   463,383,864 / acts = 1,695,536 / param =   27,791,784
+[ 82/100] completed: flops =   425,031,392 / acts = 1,866,608 / param =   26,858,768
+[ 83/100] completed: flops =   559,268,568 / acts = 1,873,088 / param =   30,784,392
+[ 84/100] completed: flops =   575,127,912 / acts = 1,753,568 / param =   31,122,552
+[ 85/100] completed: flops =   455,826,528 / acts = 1,935,944 / param =   24,340,176
+[ 86/100] completed: flops =   436,212,976 / acts = 1,693,616 / param =   29,220,736
+[ 87/100] completed: flops =   435,012,624 / acts = 1,926,008 / param =   23,639,328
+[ 88/100] completed: flops =   451,211,832 / acts = 1,638,944 / param =   31,482,792
+[ 89/100] completed: flops =   406,674,368 / acts = 1,680,688 / param =   12,858,992
+[ 90/100] completed: flops =   532,787,440 / acts = 1,842,544 / param =   28,332,928
+[ 91/100] completed: flops =   457,712,064 / acts = 1,683,344 / param =   32,804,496
+[ 92/100] completed: flops =   433,910,696 / acts = 1,666,800 / param =   15,643,928
+[ 93/100] completed: flops =   569,970,072 / acts = 1,905,560 / param =   30,243,240
+[ 94/100] completed: flops =   417,933,896 / acts = 1,697,208 / param =   21,982,904
+[ 95/100] completed: flops =   482,720,688 / acts = 1,874,384 / param =   22,867,488
+[ 96/100] completed: flops =   503,192,800 / acts = 1,406,288 / param =   33,745,264
+[ 97/100] completed: flops =   420,788,976 / acts = 1,803,488 / param =   30,321,600
+[ 98/100] completed: flops =   433,676,400 / acts = 1,467,936 / param =   29,193,984
+[ 99/100] completed: flops =   434,178,072 / acts = 1,504,664 / param =   34,122,312
+[100/200] completed: flops =   550,420,560 / acts = 1,932,272 / param =   28,724,832
+[101/200] completed: flops =   484,940,424 / acts = 1,828,352 / param =   29,363,160
+[102/200] completed: flops =   414,024,768 / acts = 1,811,168 / param =   19,163,376
+[103/200] completed: flops =   480,283,344 / acts = 1,954,160 / param =   31,616,352
+[104/200] completed: flops =   474,634,776 / acts = 1,854,224 / param =   20,130,600
+[105/200] completed: flops =   526,354,688 / acts = 1,879,120 / param =   26,789,264
+[106/200] completed: flops =   473,136,864 / acts = 1,946,064 / param =   18,385,776
+[107/200] completed: flops =   419,670,624 / acts = 1,709,072 / param =   25,853,232
+[108/200] completed: flops =   477,229,680 / acts = 1,677,360 / param =   29,650,944
+[109/200] completed: flops =   411,496,640 / acts = 1,568,464 / param =   33,199,760
+[110/200] completed: flops =   403,975,920 / acts = 1,715,696 / param =   19,805,952
+[111/200] completed: flops =   401,446,680 / acts = 1,719,872 / param =   21,440,520
+[112/200] completed: flops =   422,132,184 / acts = 1,804,976 / param =   23,048,424
+[113/200] completed: flops =   471,063,696 / acts = 1,642,040 / param =   26,937,312
+[114/200] completed: flops =   467,746,104 / acts = 1,638,392 / param =   34,482,504
+[115/200] completed: flops =   406,215,440 / acts = 1,640,952 / param =   31,388,480
+[116/200] completed: flops =   543,380,016 / acts = 1,960,976 / param =   32,768,832
+[117/200] completed: flops =   412,657,312 / acts = 1,766,736 / param =   15,779,632
+[118/200] completed: flops =   441,647,584 / acts = 1,704,176 / param =   28,700,272
+[119/200] completed: flops =   450,079,968 / acts = 1,981,104 / param =   30,091,632
+[120/200] completed: flops =   489,175,640 / acts = 1,869,184 / param =   26,103,272
+[121/200] completed: flops =   410,641,488 / acts = 1,411,520 / param =   34,756,128
+[122/200] completed: flops =   462,269,208 / acts = 1,680,688 / param =   26,240,136
+[123/200] completed: flops =   491,239,464 / acts = 1,967,632 / param =   21,605,016
+[124/200] completed: flops =   406,872,256 / acts = 1,738,000 / param =   29,718,352
+[125/200] completed: flops =   519,890,976 / acts = 1,886,624 / param =   31,111,056
+[126/200] completed: flops =   612,414,112 / acts = 1,584,432 / param =   31,942,192
+[127/200] completed: flops =   504,692,640 / acts = 1,672,632 / param =   33,462,480
+[128/200] completed: flops =   458,724,408 / acts = 1,617,632 / param =   33,189,960
+[129/200] completed: flops =   444,691,728 / acts = 1,891,376 / param =   21,401,280
+[130/200] completed: flops =   509,570,352 / acts = 1,987,408 / param =   29,025,216
+[131/200] completed: flops =   550,255,176 / acts = 1,926,800 / param =   31,615,416
+[132/200] completed: flops =   559,472,440 / acts = 1,998,768 / param =   33,351,016
+[133/200] completed: flops =   542,492,480 / acts = 1,731,152 / param =   34,801,520
+[134/200] completed: flops =   402,657,768 / acts = 1,671,728 / param =   24,497,304
+[135/200] completed: flops =   419,692,624 / acts = 1,614,032 / param =   27,727,072
+[136/200] completed: flops =   412,029,824 / acts = 1,990,160 / param =   17,923,088
+[137/200] completed: flops =   449,601,112 / acts = 1,855,912 / param =   23,257,576
+[138/200] completed: flops =   516,764,328 / acts = 1,859,768 / param =   32,888,760
+[139/200] completed: flops =   419,421,648 / acts = 1,669,992 / param =   16,381,728
+[140/200] completed: flops =   422,647,008 / acts = 1,821,200 / param =   17,603,952
+[141/200] completed: flops =   589,309,968 / acts = 1,946,408 / param =   27,622,944
+[142/200] completed: flops =   451,802,040 / acts = 1,890,112 / param =   23,567,880
+[143/200] completed: flops =   438,916,968 / acts = 1,432,160 / param =   34,708,824
+[144/200] completed: flops =   438,166,776 / acts = 1,777,496 / param =   33,443,976
+[145/200] completed: flops =   551,480,544 / acts = 1,994,480 / param =   19,917,072
+[146/200] completed: flops =   504,680,696 / acts = 1,803,160 / param =   29,951,816
+[147/200] completed: flops =   553,212,088 / acts = 1,962,480 / param =   23,719,240
+[148/200] completed: flops =   518,796,064 / acts = 1,855,952 / param =   19,109,296
+[149/200] completed: flops =   461,227,760 / acts = 1,870,992 / param =   29,583,680
+[150/200] completed: flops =   460,569,672 / acts = 1,936,016 / param =   29,149,848
+[151/200] completed: flops =   404,815,896 / acts = 1,801,872 / param =   25,068,840
+[152/200] completed: flops =   468,291,056 / acts = 1,870,248 / param =   27,891,968
+[153/200] completed: flops =   505,275,840 / acts = 1,905,592 / param =   21,544,080
+[154/200] completed: flops =   480,124,808 / acts = 1,628,440 / param =   34,000,952
+[155/200] completed: flops =   430,116,360 / acts = 1,686,272 / param =   31,515,000
+[156/200] completed: flops =   548,273,112 / acts = 1,889,792 / param =   33,593,160
+[157/200] completed: flops =   529,683,120 / acts = 1,466,192 / param =   29,861,760
+[158/200] completed: flops =   585,555,648 / acts = 1,889,680 / param =   30,291,792
+[159/200] completed: flops =   536,330,592 / acts = 1,901,096 / param =   27,955,152
+[160/200] completed: flops =   425,283,568 / acts = 1,911,024 / param =   18,318,208
+[161/200] completed: flops =   557,266,272 / acts = 1,849,616 / param =   27,026,928
+[162/200] completed: flops =   535,825,088 / acts = 1,905,104 / param =   24,659,792
+[163/200] completed: flops =   430,538,848 / acts = 1,926,768 / param =   25,689,328
+[164/200] completed: flops =   495,434,640 / acts = 1,596,656 / param =   21,230,112
+[165/200] completed: flops =   431,996,472 / acts = 1,693,088 / param =   22,850,568
+[166/200] completed: flops =   480,414,112 / acts = 1,387,536 / param =   32,015,920
+[167/200] completed: flops =   422,075,008 / acts = 1,994,256 / param =   15,763,216
+[168/200] completed: flops =   406,771,368 / acts = 1,694,624 / param =   19,806,648
+[169/200] completed: flops =   453,710,304 / acts = 1,639,280 / param =   28,401,264
+[170/200] completed: flops =   440,753,696 / acts = 1,269,456 / param =   29,284,016
+[171/200] completed: flops =   469,399,464 / acts = 1,877,584 / param =   33,684,216
+[172/200] completed: flops =   469,718,112 / acts = 1,882,128 / param =   23,961,072
+[173/200] completed: flops =   615,924,792 / acts = 1,458,848 / param =   34,413,192
+[174/200] completed: flops =   409,434,048 / acts = 1,737,584 / param =   24,226,992
+[175/200] completed: flops =   544,351,752 / acts = 1,970,720 / param =   33,694,488
+[176/200] completed: flops =   443,266,416 / acts = 1,907,392 / param =   31,618,560
+[177/200] completed: flops =   445,883,664 / acts = 1,810,216 / param =   27,672,000
+[178/200] completed: flops =   440,064,816 / acts = 1,839,896 / param =   22,478,784
+[179/200] completed: flops =   503,610,288 / acts = 1,941,728 / param =   33,657,792
+[180/200] completed: flops =   429,071,840 / acts = 1,762,704 / param =   28,305,776
+[181/200] completed: flops =   514,329,152 / acts = 1,525,840 / param =   34,628,048
+[182/200] completed: flops =   553,946,656 / acts = 1,915,216 / param =   27,157,168
+[183/200] completed: flops =   487,632,896 / acts = 1,587,336 / param =   29,179,856
+[184/200] completed: flops =   536,293,120 / acts = 1,943,056 / param =   30,940,048
+[185/200] completed: flops =   528,029,904 / acts = 1,805,088 / param =   33,987,936
+[186/200] completed: flops =   561,591,216 / acts = 1,914,728 / param =   28,181,952
+[187/200] completed: flops =   463,799,160 / acts = 1,552,688 / param =   27,896,040
+[188/200] completed: flops =   452,745,216 / acts = 1,955,024 / param =   26,806,416
+[189/200] completed: flops =   491,627,472 / acts = 1,361,816 / param =   32,900,640
+[190/200] completed: flops =   556,171,776 / acts = 1,998,512 / param =   28,962,864
+[191/200] completed: flops =   401,731,696 / acts = 1,814,920 / param =   16,148,320
+[192/200] completed: flops =   516,515,120 / acts = 1,497,192 / param =   32,473,760
+[193/200] completed: flops =   405,590,688 / acts = 1,619,216 / param =   25,970,256
+[194/200] completed: flops =   452,633,520 / acts = 1,875,440 / param =   21,460,032
+[195/200] completed: flops =   518,972,752 / acts = 1,967,920 / param =   24,797,920
+[196/200] completed: flops =   490,569,440 / acts = 1,389,072 / param =   26,961,680
+[197/200] completed: flops =   584,794,536 / acts = 1,722,944 / param =   33,661,176
+[198/200] completed: flops =   498,259,008 / acts = 1,677,944 / param =   28,732,752
+[199/200] completed: flops =   405,270,480 / acts = 1,531,072 / param =   25,014,720
+[200/300] completed: flops =   427,636,064 / acts = 1,530,328 / param =   20,870,576
+[201/300] completed: flops =   444,226,224 / acts = 1,240,976 / param =   33,335,616
+[202/300] completed: flops =   410,417,280 / acts = 1,429,040 / param =   30,287,376
+[203/300] completed: flops =   416,588,288 / acts = 1,928,208 / param =   19,882,640
+[204/300] completed: flops =   423,354,672 / acts = 1,921,184 / param =   19,473,120
+[205/300] completed: flops =   575,988,448 / acts = 1,897,424 / param =   28,232,560
+[206/300] completed: flops =   426,658,136 / acts = 1,489,280 / param =   26,760,488
+[207/300] completed: flops =   401,126,672 / acts = 1,820,016 / param =   25,048,736
+[208/300] completed: flops =   434,275,568 / acts = 1,879,568 / param =   25,573,760
+[209/300] completed: flops =   461,234,856 / acts = 1,871,792 / param =   26,657,400
+[210/300] completed: flops =   509,793,760 / acts = 1,781,392 / param =   28,968,880
+[211/300] completed: flops =   443,352,744 / acts = 1,743,776 / param =   23,787,000
+[212/300] completed: flops =   458,298,912 / acts = 1,811,024 / param =   20,565,552
+[213/300] completed: flops =   453,121,880 / acts = 1,629,152 / param =   24,414,920
+[214/300] completed: flops =   402,768,688 / acts = 1,588,976 / param =   26,183,872
+[215/300] completed: flops =   486,884,544 / acts = 1,931,984 / param =   27,616,272
+[216/300] completed: flops =   423,879,904 / acts = 1,680,048 / param =   24,301,936
+[217/300] completed: flops =   592,644,096 / acts = 1,746,440 / param =   33,670,224
+[218/300] completed: flops =   489,874,560 / acts = 1,664,960 / param =   28,107,600
+[219/300] completed: flops =   509,188,464 / acts = 1,810,448 / param =   34,591,968
+[220/300] completed: flops =   490,201,248 / acts = 1,684,624 / param =   25,165,104
+[221/300] completed: flops =   437,217,744 / acts = 1,727,424 / param =   31,346,784
+[222/300] completed: flops =   499,620,072 / acts = 1,788,104 / param =   34,225,464
+[223/300] completed: flops =   408,276,224 / acts = 1,777,968 / param =   21,726,608
+[224/300] completed: flops =   443,354,120 / acts = 1,920,192 / param =   14,873,240
+[225/300] completed: flops =   420,286,464 / acts = 1,604,880 / param =   21,666,960
+[226/300] completed: flops =   473,149,480 / acts = 1,747,992 / param =   20,985,400
+[227/300] completed: flops =   625,577,352 / acts = 1,941,152 / param =   33,440,280
+[228/300] completed: flops =   450,959,904 / acts = 1,868,336 / param =   21,300,912
+[229/300] completed: flops =   436,244,136 / acts = 1,682,816 / param =   20,731,128
+[230/300] completed: flops =   528,190,400 / acts = 1,883,184 / param =   24,078,416
+[231/300] completed: flops =   442,040,512 / acts = 1,810,256 / param =   21,415,504
+[232/300] completed: flops =   490,379,832 / acts = 1,843,568 / param =   29,430,216
+[233/300] completed: flops =   485,005,568 / acts = 1,494,736 / param =   27,744,656
+[234/300] completed: flops =   454,584,776 / acts = 1,753,376 / param =   28,387,064
+[235/300] completed: flops =   537,500,832 / acts = 1,823,184 / param =   28,854,576
+[236/300] completed: flops =   408,646,944 / acts = 1,205,744 / param =   29,698,416
+[237/300] completed: flops =   449,341,800 / acts = 1,949,792 / param =   18,726,840
+[238/300] completed: flops =   689,905,536 / acts = 1,997,072 / param =   31,870,992
+[239/300] completed: flops =   457,781,784 / acts = 1,745,312 / param =   29,767,272
+[240/300] completed: flops =   417,157,408 / acts = 1,506,896 / param =   24,936,880
+[241/300] completed: flops =   624,998,120 / acts = 1,822,592 / param =   34,128,440
+[242/300] completed: flops =   615,191,712 / acts = 1,756,400 / param =   29,883,696
+[243/300] completed: flops =   400,389,488 / acts = 1,852,272 / param =   19,400,576
+[244/300] completed: flops =   406,658,304 / acts = 1,916,288 / param =   22,986,576
+[245/300] completed: flops =   417,625,984 / acts = 1,873,168 / param =   25,597,456
+[246/300] completed: flops =   415,669,440 / acts = 1,530,064 / param =   24,066,384
+[247/300] completed: flops =   523,757,712 / acts = 1,838,928 / param =   34,633,248
+[248/300] completed: flops =   470,130,192 / acts = 1,876,144 / param =   25,441,440
+[249/300] completed: flops =   428,943,840 / acts = 1,795,824 / param =   23,989,872
+[250/300] completed: flops =   546,660,832 / acts = 1,944,144 / param =   25,831,024
+[251/300] completed: flops =   424,701,824 / acts = 1,714,160 / param =   29,584,400
+[252/300] completed: flops =   571,308,512 / acts = 1,799,504 / param =   27,629,168
+[253/300] completed: flops =   417,317,472 / acts = 1,834,928 / param =   20,061,936
+[254/300] completed: flops =   588,773,720 / acts = 1,659,392 / param =   33,185,960
+[255/300] completed: flops =   604,764,288 / acts = 1,750,032 / param =   26,967,312
+[256/300] completed: flops =   455,816,912 / acts = 1,920,144 / param =   26,675,552
+[257/300] completed: flops =   465,964,000 / acts = 1,718,512 / param =   28,038,640
+[258/300] completed: flops =   548,039,952 / acts = 1,756,304 / param =   34,345,728
+[259/300] completed: flops =   425,844,216 / acts = 1,742,264 / param =   18,152,424
+[260/300] completed: flops =   450,831,888 / acts = 1,994,912 / param =   15,955,200
+[261/300] completed: flops =   578,464,544 / acts = 1,977,648 / param =   25,086,896
+[262/300] completed: flops =   415,079,904 / acts = 1,949,864 / param =   24,069,360
+[263/300] completed: flops =   464,040,032 / acts = 1,674,960 / param =   23,985,392
+[264/300] completed: flops =   418,354,920 / acts = 1,374,560 / param =   29,776,536
+[265/300] completed: flops =   496,098,504 / acts = 1,821,968 / param =   28,057,176
+[266/300] completed: flops =   421,013,016 / acts = 1,813,688 / param =   14,443,560
+[267/300] completed: flops =   515,892,240 / acts = 1,846,160 / param =   21,225,888
+[268/300] completed: flops =   420,741,576 / acts = 1,941,128 / param =   23,555,160
+[269/300] completed: flops =   597,332,448 / acts = 1,779,792 / param =   31,937,136
+[270/300] completed: flops =   431,483,472 / acts = 1,628,128 / param =   32,757,984
+[271/300] completed: flops =   519,411,048 / acts = 1,646,304 / param =   33,717,144
+[272/300] completed: flops =   491,192,760 / acts = 1,949,472 / param =   34,915,560
+[273/300] completed: flops =   483,462,264 / acts = 1,879,280 / param =   26,878,152
+[274/300] completed: flops =   515,616,360 / acts = 1,911,128 / param =   26,167,992
+[275/300] completed: flops =   474,296,896 / acts = 1,884,752 / param =   25,087,696
+[276/300] completed: flops =   446,408,472 / acts = 1,822,592 / param =   20,603,496
+[277/300] completed: flops =   410,653,800 / acts = 1,429,312 / param =   25,804,440
+[278/300] completed: flops =   431,096,240 / acts = 1,725,232 / param =   28,972,160
+[279/300] completed: flops =   462,590,256 / acts = 1,859,408 / param =   19,862,976
+[280/300] completed: flops =   484,911,768 / acts = 1,916,432 / param =   32,270,376
+[281/300] completed: flops =   492,770,592 / acts = 1,982,888 / param =   30,931,056
+[282/300] completed: flops =   421,148,352 / acts = 1,771,152 / param =   31,803,984
+[283/300] completed: flops =   545,354,712 / acts = 1,943,936 / param =   34,930,728
+[284/300] completed: flops =   513,533,856 / acts = 1,765,136 / param =   27,082,800
+[285/300] completed: flops =   409,352,112 / acts = 1,493,408 / param =   30,294,336
+[286/300] completed: flops =   529,078,848 / acts = 1,945,928 / param =   23,895,312
+[287/300] completed: flops =   479,261,568 / acts = 1,945,472 / param =   21,712,080
+[288/300] completed: flops =   421,696,416 / acts = 1,667,600 / param =   19,135,536
+[289/300] completed: flops =   475,359,120 / acts = 1,826,864 / param =   25,964,640
+[290/300] completed: flops =   429,684,864 / acts = 1,412,000 / param =   24,581,328
+[291/300] completed: flops =   512,264,448 / acts = 1,828,752 / param =   28,347,792
+[292/300] completed: flops =   571,743,432 / acts = 1,915,352 / param =   31,595,256
+[293/300] completed: flops =   410,555,328 / acts = 1,502,192 / param =   31,339,344
+[294/300] completed: flops =   526,029,744 / acts = 1,698,128 / param =   33,968,064
+[295/300] completed: flops =   411,342,720 / acts = 1,777,488 / param =   19,447,824
+[296/300] completed: flops =   460,091,256 / acts = 1,475,840 / param =   24,846,216
+[297/300] completed: flops =   421,800,960 / acts = 1,787,312 / param =   27,124,080
+[298/300] completed: flops =   518,736,496 / acts = 1,705,008 / param =   26,669,824
+[299/300] completed: flops =   501,032,928 / acts = 1,695,696 / param =   28,316,784
